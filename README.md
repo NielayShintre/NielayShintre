@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Node.js, Typescript**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, API's**
 
 - 📫 How to reach me **nielay18@gmail.com**
 
