@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Multiple frontend Projects**
 
-- 🌱 I’m currently learning **Next, Node, Typescript**
+- 🌱 I’m currently learning **Next.js, Node.js, Typescript**
 
-- 💬 Ask me about **React, Node, Express, Next**
+- 💬 Ask me about **Javascript, React,*
 
 - 📫 How to reach me **nielay18@gmail.com**
 
