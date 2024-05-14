@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nielay Shintre</h1>
-<h3 align="center">A passionate frontend Engineer from India</h3>
+<h3 align="center">A passionate full stack (MERN) Engineer from India</h3>
 
-- 🔭 I’m currently working on **Multiple frontend Projects**
+- 🔭 I’m currently working on **Multiple full stack Projects**
 
-- 🌱 I’m currently learning **Next.js, Node.js, Typescript**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Javascript, React, API's**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **nielay18@gmail.com**
 
