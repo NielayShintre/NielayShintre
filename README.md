@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multiple full stack Projects**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next JS & AI**
 
 - 💬 Ask me about **MERN stack**
 
